@@ -1,2 +1,5 @@
 streamlit
 edge-tts
+openai-whisper
+torch
+torchaudio
